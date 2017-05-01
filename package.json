@@ -1,0 +1,25 @@
+{
+  "name": "wx-admin-tool",
+  "version": "1.0.0",
+  "description": "WebEx User Management Help for Non-CI sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoneix/wx-admin-tool.git"
+  },
+  "keywords": [
+    "WebEx",
+    "CISCO",
+    "Harish",
+    "Chawla"
+  ],
+  "author": "Harish Chawla (CISCO SYSTEMS)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoneix/wx-admin-tool/issues"
+  },
+  "homepage": "https://github.com/zoneix/wx-admin-tool#readme"
+}
